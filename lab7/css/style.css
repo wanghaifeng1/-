@@ -1,0 +1,51 @@
+body{
+	font-family: Arial;
+	font-size: 12px;
+	color: gray;
+	line-height: 2em;
+}
+a:link{
+	color:#727272;
+	text-decoration:none;  
+}
+a:hover{
+	text-decoration: underline;
+}
+.no1{
+	font-size: 14px;
+	color: white;
+	font-weight: bolder;
+}
+#no2:link{
+	font-size: 14px;
+	color:#b9f605;
+
+}
+#no3:link{
+	font-size: 14px;
+	color:#fdb306;
+
+}
+.a1 td a:link{
+	color: white;
+}
+.a1 td a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
+.a2 li a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
+.a3 li a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
+.a4 li a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
+.a5 li a:hover{
+	color: #b9f605;
+	text-decoration: none;
+}
