@@ -1,0 +1,33 @@
+.menu {
+	background-image: url(../image/bj.png);
+	background-position:50% 50%;
+	display: inline;
+	background-repeat: no-repeat;
+	background-position: left;
+	height: 200px;
+	width: 150;
+}
+ul li{
+	text-align: 65px;
+	color: gray;
+	border-top-width: 15px;
+	border-top-width: 30;px;
+	line-height: 40px;
+	margin-top: 5px;
+	margin-left: center;
+	list-style-type: none;
+}
+.n1{
+	background-image: url(../image/lvbiaoti.png);
+	background-position: center;
+	color: white;
+	background-repeat: no-repeat;
+	background-position:-20px 0px;
+	
+}
+.n2{
+	background-image: url(../image/baibiaoti.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position: -20px 0px;
+}
