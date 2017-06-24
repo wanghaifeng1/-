@@ -1,0 +1,37 @@
+body{
+	background-image:url(../images/bei5.jpg);
+	margin:0px auto;
+	width:800px;
+	height:1000px;
+}
+.a{
+	height:270px;
+}
+.b{
+   height:500px;
+}
+.b1{
+   width:300px;
+   height:200px;
+   margin:200px;
+   color:white;
+   font-size:30px;
+}
+.p{
+   color:white;
+}
+.c{
+   width:80%;
+   height:100px;
+   text-align:center;
+   color:white;
+   position: relative;
+   left:10%;
+}
+.boot{
+   text-align:center;
+   list-style-type: none;
+}
+.boot ul li{
+   display:inline;
+}
